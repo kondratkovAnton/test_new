@@ -1,2 +1,2 @@
 some content
-from local repository
+from remote repository
