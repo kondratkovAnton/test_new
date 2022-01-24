@@ -1,3 +1,4 @@
 some content
 from remote repository
 from remote repository 2
+from local repository
